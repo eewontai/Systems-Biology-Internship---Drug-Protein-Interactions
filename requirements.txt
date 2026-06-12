@@ -1,0 +1,6 @@
+pandas
+numpy<2.0
+torch==2.7.1
+transformers
+scikit-learn
+rdkit-pypi
