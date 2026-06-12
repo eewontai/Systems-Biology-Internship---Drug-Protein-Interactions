@@ -3,7 +3,7 @@
 
 
 ## 1. chembl_access.py
-Get data from ChEMBL
+Get data from ChEMBL (not uploaded due to sensitive information)
 
 ## 2. get_embeddings.py
 Get embeddings of ChemBERTa for drug SMILES strings and ProtBERT for protein amino acid sequences
